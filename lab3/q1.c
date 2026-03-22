@@ -10,7 +10,7 @@ int main()
 	scanf("%f", &distance);
 	
 	avg_speed=distance/time;
-	printf("The average speed is %.1f", avg_speed); 
+	printf("Average speed:- %.1f", avg_speed); 
 	
 	return 0;
 }
